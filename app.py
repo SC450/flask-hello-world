@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, World!'
+    return 'How many tickles does it take to make an octopus laugh? Ten-tickles!'
